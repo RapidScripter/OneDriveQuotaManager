@@ -19,7 +19,7 @@ This PowerShell script allows administrators to efficiently manage storage quota
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/OneDriveQuotaManager.git
+   git clone https://github.com/RapidScripter/OneDriveQuotaManager.git
    cd OneDriveQuotaManager
 
 2. Open PowerShell and run the script:
